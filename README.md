@@ -46,7 +46,7 @@ i want to see the date next to each transaction
 ```
 
 
-** Functionaility of program in Node **
+**Functionaility of program in Node**
 
 * Step 1
 
