@@ -1,12 +1,15 @@
-Bank tech test
+Makers Academy Week 10 - Bank-Tech-Test
 
 
-Specification
+- Specification
 Requirements
-You should be able to interact with your code via a REPL like IRB or Node. (You don't need to implement a command line interface that takes input from STDIN.)
-Deposits, withdrawal.
-Account statement (date, amount, balance) printing.
-Data can be kept in memory (it doesn't need to be stored to a database or anything).
+. You should be able to interact with your code via a REPL like IRB or Node. 
+   .You don't need to implement a command line interface that takes input from STDIN.
+. Must inclide Deposits and withdrawal.
+. Must inclide Account statement (date, amount, balance) printing.
+. Data can be kept in memory (it doesn't need to be stored to a database or anything).
+
+
 Acceptance criteria
 Given a client makes a deposit of 1000 on 10-01-2023
 And a deposit of 2000 on 13-01-2023
@@ -26,16 +29,3 @@ As a user,
 so that i can see my bank statements, 
 I want my statment printed with the current balance, debit history and date
 
-```ruby 
-
-class bankStatment 
-constructor - date, balance, activitiy
-
-def date
-end 
-
-def balance 
-end 
-
-def activitiy
-end 
