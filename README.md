@@ -45,6 +45,11 @@ so that i can see which dates i deposited and withdrew money
 i want to see the date next to each transaction
 ```
 
+**Domain Model**
+
+![Alt text](/domain/Screenshot%202022-07-27%20at%2012.03.34.png)
+
+
 
 **Functionaility of program in Node**
 
