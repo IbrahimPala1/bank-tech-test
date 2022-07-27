@@ -80,10 +80,11 @@ undefined
 * Step 6(show account statement)
 ```
 > account.statement()
+> account.statement()
 date       ||credit||debit||balance
-27/06/2022 || 400 ||   || 400
-27/06/2022 ||  || 200  || 200
-27/06/2022 || 100 ||   || 300
+27/06/2022 || 400:00 ||   || 400:00
+27/06/2022 ||  || 200:00  || 200:00
+27/06/2022 || 100:00 ||   || 300:00
 ```
 
 
